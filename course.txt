@@ -1,0 +1,9 @@
+course	duration	timing	trainer_name
+Data Science	4 months	7pm-9pm	Varun Maya
+AI Specialist	3 months	8pm-10pm	Rahul Verma
+Data Analytics	3 months	6pm-7:30pm	Sneha Reddy
+Digital Marketing	2 months	7am-9am	Imran Khan
+SOC analyst	2 months	9pm-10:30pm	Pooja Sharma
+Business Analyst	3 months	5pm-6:30pm	Kiran Patel
+			
+			
